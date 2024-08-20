@@ -103,3 +103,4 @@ This was originally a fork of [@ronomon/utimes](https://www.npmjs.com/package/@r
 - Modern API with both promises and callbacks written in TypeScript
 
 Huge thanks to all of the [contributors](https://github.com/baileyherbert/utimes/graphs/contributors) who helped with maintaining and improving this package!
+
